@@ -1,11 +1,11 @@
 import './App.css';
-import Button from './components/tabloid';
+import Landing from './components/home';
 
 function App() {
   return (
     <div className="App">
       <div className='box'> </div>
-      <Button />
+      <Landing />
       
     </div>
   );
